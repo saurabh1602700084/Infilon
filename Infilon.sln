@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infilon", "Infilon\Infilon.csproj", "{FD632F9F-652E-4246-A17F-E8642E288FBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD632F9F-652E-4246-A17F-E8642E288FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD632F9F-652E-4246-A17F-E8642E288FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD632F9F-652E-4246-A17F-E8642E288FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD632F9F-652E-4246-A17F-E8642E288FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CF16CA5-2730-444D-B8A8-AACEF3AB35AB}
+	EndGlobalSection
+EndGlobal
